@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "jsdom": "^19.0.0",
+    "request": "^2.88.2",
+    "xlsx": "^0.18.5"
+  }
+}
